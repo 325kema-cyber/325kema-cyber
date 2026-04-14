@@ -1,4 +1,4 @@
-# Hi, I'm Mark 👋
+# Hi, I'm Ke Ma 👋
 
 🎓 Computer Engineering @ UIUC  
 📈 Interested in Quantitative Finance & Machine Learning  
